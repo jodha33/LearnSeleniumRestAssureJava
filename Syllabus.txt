@@ -1,0 +1,25 @@
+Covered Topics:
+Variables
+Conditions Statements
+Iterative Statement
+Array
+Break & Continue
+CLASS & object
+
+Pending:
+Constructor
+Getter and Setter
+Access Specifier
+Static Variable
+getter setter
+this
+Inheritence in java
+Polymorphism in Java
+Abstract and Interface in Java
+String
+Garbage Collection
+Collection:
+	List
+	Set
+	Maps
+
