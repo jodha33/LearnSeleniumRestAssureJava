@@ -10,7 +10,6 @@ public static void main(String arg[]){
     Student Suresh=new Student();
     Student Jodha=new Student();
 
-
     Suresh.id=01;
     Suresh.name="Suresh";
     Suresh.address="sfsdfsdfs";

@@ -1,4 +1,5 @@
 Covered Topics:
+----------------------------------------------
 Variables
 Conditions Statements
 Iterative Statement
@@ -6,7 +7,9 @@ Array
 Break & Continue
 CLASS & object
 
+
 Pending:
+----------------------------------------------
 Constructor
 Getter and Setter
 Access Specifier
@@ -18,8 +21,8 @@ Polymorphism in Java
 Abstract and Interface in Java
 String
 Garbage Collection
-Collection:
-	List
-	Set
-	Maps
+Generic and Autoboxking
+Comparable & Comparator
+Collections: 	List Set Maps
+
 
