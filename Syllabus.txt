@@ -6,17 +6,16 @@ Iterative Statement
 Array
 Break & Continue
 CLASS & object
-
+Constructor
+Getter and Setter
+this
+Static Variable
 
 Pending:
 ----------------------------------------------
-Constructor
-Getter and Setter
-Access Specifier
-Static Variable
-getter setter
-this
+
 Inheritence in java
+Access Specifier
 Polymorphism in Java
 Abstract and Interface in Java
 String
