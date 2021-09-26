@@ -10,18 +10,17 @@ Constructor
 Getter and Setter
 this
 Static Variable
+Inheritence in java- Over Loading, Overiding, Super Keyword, Construcotr Overloading
+Polymorphism in Java
+Access Specifier
+Packages
+Abstract and Interface in Java
 
 Pending:
 ----------------------------------------------
-
-Inheritence in java
-Access Specifier
-Polymorphism in Java
-Abstract and Interface in Java
 String
-Garbage Collection
 Generic and Autoboxking
-Comparable & Comparator
 Collections: 	List Set Maps
-
+Comparable & Comparator
+Garbage Collection
 
